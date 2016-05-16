@@ -1,0 +1,11 @@
+name: Rust
+version: 0.1
+author: Tedget
+
+main: de.tedget.rust
+
+commands:
+    test:
+        description: Test command.
+        usage: /t
+        aliases: [t, tt]
